@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\boily\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\boily\\.nuget\\packages"
+    ]
+  }
+}

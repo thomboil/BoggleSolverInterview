@@ -1,0 +1,11 @@
+C:\Users\boily\source\repos\BuggleSolver\BuggleSolver\bin\Debug\netcoreapp3.1\BuggleSolver.exe
+C:\Users\boily\source\repos\BuggleSolver\BuggleSolver\bin\Debug\netcoreapp3.1\BuggleSolver.deps.json
+C:\Users\boily\source\repos\BuggleSolver\BuggleSolver\bin\Debug\netcoreapp3.1\BuggleSolver.runtimeconfig.json
+C:\Users\boily\source\repos\BuggleSolver\BuggleSolver\bin\Debug\netcoreapp3.1\BuggleSolver.runtimeconfig.dev.json
+C:\Users\boily\source\repos\BuggleSolver\BuggleSolver\bin\Debug\netcoreapp3.1\BuggleSolver.dll
+C:\Users\boily\source\repos\BuggleSolver\BuggleSolver\bin\Debug\netcoreapp3.1\BuggleSolver.pdb
+C:\Users\boily\source\repos\BuggleSolver\BuggleSolver\obj\Debug\netcoreapp3.1\BuggleSolver.csprojAssemblyReference.cache
+C:\Users\boily\source\repos\BuggleSolver\BuggleSolver\obj\Debug\netcoreapp3.1\BuggleSolver.AssemblyInfoInputs.cache
+C:\Users\boily\source\repos\BuggleSolver\BuggleSolver\obj\Debug\netcoreapp3.1\BuggleSolver.AssemblyInfo.cs
+C:\Users\boily\source\repos\BuggleSolver\BuggleSolver\obj\Debug\netcoreapp3.1\BuggleSolver.dll
+C:\Users\boily\source\repos\BuggleSolver\BuggleSolver\obj\Debug\netcoreapp3.1\BuggleSolver.pdb
